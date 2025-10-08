@@ -1199,3 +1199,4 @@ wsl --shutdown
 ---
 
 **Após configurar WSL 2:** [Voltar para Seção 1](#1-instalação-inicial)
+
